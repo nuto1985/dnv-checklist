@@ -1,0 +1,11 @@
+{
+  "9.3": {
+    "title": "Alarms and Communications",
+    "requirements": "Section covers the alarm systems and communication protocols during emergencies.",
+    "items": [
+      "General alarm system provided and audible in all areas",
+      "Alarm tones distinguishable and above ambient noise",
+      "Public address system reaches all normally accessible areas"
+    ]
+  }
+}

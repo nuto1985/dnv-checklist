@@ -1,0 +1,19 @@
+{% extends "layout.html" %}
+{% block content %}
+<article class="section-text">
+  {{ content | safe }}
+</article>
+
+<div class="checklist">
+  <h2>✅ Checklist</h2>
+  <form method="post">
+    {% for i, item in enumerate(items) %}
+    <div class="checklist-item">
+      <label><input type="checkbox" name="item_{{ i }}" {% if states[i] %}checked{% endif %}> {{ item }}</label><br>
+      <textarea name="comment_{{ i }}">{{ comments[i] }}</textarea>
+    </div>
+    {% endfor %}
+    <button type="submit">Save</button>
+  </form>
+</div>
+{% endblock %}
