@@ -37,6 +37,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
   chatIcon.addEventListener("click", () => {
     chatBox.style.display = chatBox.style.display === "none" ? "block" : "none";
+    if (!chatLog.innerHTML.includes("💡")) {
+      chatLog.innerHTML = '<div style="font-size: 0.9em; color: #555;">💡 Tip: Type keywords like "escape", "alarm", or "muster" for help. Avoid full sentences.</div><hr>';
+    }
   });
 
   chatInput.addEventListener("keydown", function (e) {
