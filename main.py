@@ -36,3 +36,7 @@ def section(section_id):
 @app.route("/")
 def index():
     return redirect(url_for("section", section_id="9.3"))
+    if __name__ == "__main__":
+    import os
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port)
