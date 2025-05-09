@@ -1,0 +1,83 @@
+{
+  "9.1": {
+    "title": "Section 9.1 Title",
+    "requirements": "Summary of section 9.1",
+    "items": [
+      "Requirement 1 of 9.1",
+      "Requirement 2 of 9.1",
+      "Requirement 3 of 9.1"
+    ]
+  },
+  "9.2": {
+    "title": "Section 9.2 Title",
+    "requirements": "Summary of section 9.2",
+    "items": [
+      "Requirement 1 of 9.2",
+      "Requirement 2 of 9.2",
+      "Requirement 3 of 9.2"
+    ]
+  },
+  "9.3": {
+    "title": "Section 9.3 Title",
+    "requirements": "Summary of section 9.3",
+    "items": [
+      "Requirement 1 of 9.3",
+      "Requirement 2 of 9.3",
+      "Requirement 3 of 9.3"
+    ]
+  },
+  "9.4": {
+    "title": "Section 9.4 Title",
+    "requirements": "Summary of section 9.4",
+    "items": [
+      "Requirement 1 of 9.4",
+      "Requirement 2 of 9.4",
+      "Requirement 3 of 9.4"
+    ]
+  },
+  "9.5": {
+    "title": "Section 9.5 Title",
+    "requirements": "Summary of section 9.5",
+    "items": [
+      "Requirement 1 of 9.5",
+      "Requirement 2 of 9.5",
+      "Requirement 3 of 9.5"
+    ]
+  },
+  "9.6": {
+    "title": "Section 9.6 Title",
+    "requirements": "Summary of section 9.6",
+    "items": [
+      "Requirement 1 of 9.6",
+      "Requirement 2 of 9.6",
+      "Requirement 3 of 9.6"
+    ]
+  },
+  "9.7": {
+    "title": "Section 9.7 Title",
+    "requirements": "Summary of section 9.7",
+    "items": [
+      "Requirement 1 of 9.7",
+      "Requirement 2 of 9.7",
+      "Requirement 3 of 9.7"
+    ]
+  },
+  "9.8": {
+    "title": "Section 9.8 Title",
+    "requirements": "Summary of section 9.8",
+    "items": [
+      "Requirement 1 of 9.8",
+      "Requirement 2 of 9.8",
+      "Requirement 3 of 9.8"
+    ]
+  },
+  "9.9": {
+    "title": "Section 9.9 Title",
+    "requirements": "Summary of section 9.9",
+    "items": [
+      "Requirement 1 of 9.9",
+      "Requirement 2 of 9.9",
+      "Requirement 3 of 9.9"
+    ]
+  }
+}
