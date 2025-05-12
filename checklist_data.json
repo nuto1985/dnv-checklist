@@ -1,0 +1,29 @@
+{
+  "9.1": {
+    "title": "Introduction",
+    "requirements": "Checklist for Section 9.1",
+    "items": [
+      "Requirement 1 of 9.1",
+      "Requirement 2 of 9.1",
+      "Requirement 3 of 9.1"
+    ]
+  },
+  "9.2": {
+    "title": "Design principles",
+    "requirements": "Checklist for Section 9.2",
+    "items": [
+      "Requirement 1 of 9.2",
+      "Requirement 2 of 9.2",
+      "Requirement 3 of 9.2"
+    ]
+  },
+  "9.3": {
+    "title": "Alarms and communications",
+    "requirements": "Checklist for Section 9.3",
+    "items": [
+      "Requirement 1 of 9.3",
+      "Requirement 2 of 9.3",
+      "Requirement 3 of 9.3"
+    ]
+  }
+}
