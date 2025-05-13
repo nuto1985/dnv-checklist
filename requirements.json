@@ -1,0 +1,61 @@
+{
+  "DNV0145": {
+    "chapters": [
+      {
+        "chapterTitle": "Section 3 Arrangement Principles",
+        "subchapters": [],
+        "checklist": []
+      },
+      {
+        "chapterTitle": "Section 4 Structural Design",
+        "subchapters": [],
+        "checklist": []
+      },
+      {
+        "chapterTitle": "Section 5 Electrical Design",
+        "subchapters": [],
+        "checklist": []
+      },
+      {
+        "chapterTitle": "Section 6 Fire and Explosion Protection",
+        "subchapters": [],
+        "checklist": []
+      },
+      {
+        "chapterTitle": "Section 7 Machinery and Utility Systems",
+        "subchapters": [],
+        "checklist": []
+      },
+      {
+        "chapterTitle": "Section 8 Access and Transfer",
+        "subchapters": [],
+        "checklist": []
+      },
+      {
+        "chapterTitle": "Section 9 Emergency Response",
+        "subchapters": [],
+        "checklist": []
+      },
+      {
+        "chapterTitle": "Section 11 In-service Inspection and Maintenance",
+        "subchapters": [],
+        "checklist": []
+      },
+      {
+        "chapterTitle": "Appendix A Risk Management Concepts",
+        "subchapters": [],
+        "checklist": []
+      },
+      {
+        "chapterTitle": "Appendix B Hazard Identification",
+        "subchapters": [],
+        "checklist": []
+      },
+      {
+        "chapterTitle": "Appendix C Operational Conditions",
+        "subchapters": [],
+        "checklist": []
+      }
+    ]
+  }
+}
